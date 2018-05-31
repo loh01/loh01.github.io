@@ -13,6 +13,7 @@ h1
 
 h2
 {
+	text-align: center;
 	color: #4375F9;
 	font-size: 40;
 	font-style: italic;
@@ -32,12 +33,14 @@ p
 
 #resume 
 {
+	text-align: center;
 	font-size: 25px;
 }
 
 #bio 
 {
-	font-size: 30px;
+	font-size: 10px;
+	text-align: center;
 }
 
 .bioemph
