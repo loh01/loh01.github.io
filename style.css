@@ -6,7 +6,6 @@ body
 
 h1 
 {
-	text-align: left;
 	font-weight: bold;
 	font-size: 30px;
 }
@@ -24,14 +23,8 @@ p
 	color: black;
 }
 
-span.center
-{
-	text-align: center;
-}
-
 #indexheading
 {
-	text-align: center;
 	font-size: 45px;
 	font-style: italic;
 }
@@ -57,4 +50,9 @@ span.center
 {
 	font-weight: bold;
 	font-style: italic;
+}
+
+.center
+{
+	text-align: center;
 }
