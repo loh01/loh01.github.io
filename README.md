@@ -14,10 +14,11 @@
 # 1. Accidentally added files into wrong repo, and struggled to use git to correct that mistake
 # 2. Had some trouble trying to edit styling to help center image
 # 3. Took some time to find the right font sizes
-# 4. Initially repeated id="---" for the tags e.g. <p class="bio">, but I got errors that said duplicate. (Why? Do you only need to declare the id once, and it works for any tags under it afterwards?
+# 4. Kept getting confused between id and class
 
 # Assistance:
 # 1. Stackoverflow was a big help
+# 2. Used https://htmlcolorcodes.com/ for colors
 
 # Duration taken:
 # Approximately 5hrs
