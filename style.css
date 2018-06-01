@@ -48,6 +48,11 @@ span.center
 	text-align: center;
 }
 
+#bioheading
+{
+	text-align: center;
+}
+
 .bioemph
 {
 	font-weight: bold;
