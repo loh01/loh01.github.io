@@ -24,9 +24,9 @@ ol
 	color: black;
 }
 
-#indexheading
+.indexheading
 {
-	font-size: 45px;
+	font-size: 25px;
 	font-style: italic;
 	text-align: center;
 }
