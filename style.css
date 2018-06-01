@@ -18,12 +18,15 @@ h2
 	font-style: italic;
 }
 
+/* This did not work in centering the image
 img
 {
 	position: absolute;
     top: 0; bottom:0; left: 0; right:0;
     margin: auto;
 }
+I also tried using class="center", but didn't work too
+*/
 
 ol 
 {
@@ -37,12 +40,14 @@ ul
 	color: black;
 }
 
+/* Why did this not work?
 .indexheading
 {
 	font-size: 25px;
 	font-style: italic;
 	text-align: center;
 }
+*/
 
 #resume 
 {
